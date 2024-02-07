@@ -33,7 +33,7 @@ int main() {
         }
     }
 
-    printMatrixMul(matrix1, row1, col1, matrix2, row2, col2); // call matrixMul() to comptute matrix1 x matrix2
+    printMatrixMul(matrix1, row1, col1, matrix2, row2, col2); // call printMatrixMul() to comptute matrix1 x matrix2
 
     // deallocate the memory
     for (int i=0; i<row2; i++) {
