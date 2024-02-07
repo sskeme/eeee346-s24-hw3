@@ -10,7 +10,7 @@ Please refer to [this](https://en.wikipedia.org/wiki/Matrix_multiplication#:~:te
 # Task
 
 * Implement the printMatrixMul() function in matrixMul.cpp.
-  * You must 1) create a 2D dynamic array for the resulting matrix, 2) compute and store the resulting values in the matrix, 3) display the element values using a cout statement, and 4) deallocate the memory from the 2D dynamic array.
+  * You must 1) create a 2D dynamic array for the resulting matrix, 2) compute and store the resulting values in the matrix, 3) display the element values using cout statements, and 4) deallocate the memory from the 2D dynamic array.
   * When displaying the element values, print all rows in the matrix on a single row, with each row separate by a semicolon ; (see the example below).
   * This function is already declared in matrixMul.h, and you can find information about its parameters in this header file.
   * Assume that input matrix dimensions are always compatible.
